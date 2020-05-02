@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 40%;
+    height: 200px;
+    padding: 10px;
+    border: grey solid 2px;
+    border-radius: 3px;
+}
+.heading {
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+
+.content {
+    margin: 20px;
+}
+
+.facts {
+    float: left;
+}
+.favorites {
+    float: right;
+}
