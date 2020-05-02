@@ -1,5 +1,5 @@
 # German Shephered Dog
-####Pet Website, 2020-05-01
+#### Pet Website, 2020-05-01
 #### By **Nicholas Tanui**
 ## Description
 This is a simple site about some brief facts about the german shephered dog.
