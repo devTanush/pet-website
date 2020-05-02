@@ -3,7 +3,7 @@
 #### By **Nicholas Tanui**
 ## Description
 This is a simple site about some brief facts about the german shephered dog.
-*Link to the site can be found [here.](https://devtanush.github.io/pet-website/)
+Link to the site can be found [here.](https://devtanush.github.io/pet-website/)
 ## Setup/Installation Requirements
 Simply access the site by opening the link under description above.
 ## Known Bugs
